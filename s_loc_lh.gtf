@@ -1,0 +1,64 @@
+# overlap start --------------------------------------------------------------------------------
+# this overlap has 1 different transcripts
+# This transcript pveT_jg22140.t1 is derived from g24313.t1 from the input file /home/ubuntu/giacomo-3/pve-final/haploT/braker_results/braker_ETP_T_masked/augustus.E.gtf
+# It is supported by 0 other predicted genes
+# the core of this joined transcript has priority 2								
+s_loc_lh1_assembly	AUGUSTUS	gene	101481	101949	.	+	.	ccmT
+s_loc_lh1_assembly	AUGUSTUS	transcript	101481	101949	.	+	.	transcript_id "ccmT.t1"; gene_id "ccmT"
+s_loc_lh1_assembly	AUGUSTUS	start_codon	101481	101483	.	+	0	transcript_id "ccmT.t1"; gene_id "ccmT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	101481	101949	0.96	+	0	transcript_id "ccmT.t1"; gene_id "ccmT";
+s_loc_lh1_assembly	AUGUSTUS	stop_codon	101947	101949	.	+	0	transcript_id "ccmT.t1"; gene_id "ccmT";
+# overlap start --------------------------------------------------------------------------------
+# this overlap has 1 different transcripts
+# This transcript pveT_jg22140.t1 is derived from g24313.t1 from the input file /home/ubuntu/giacomo-3/pve-final/haploT/braker_results/braker_ETP_T_masked/augustus.E.gtf
+# It is supported by 0 other predicted genes
+# the core of this joined transcript has priority 2
+s_loc_lh1_assembly	AUGUSTUS	gene	112873	112951	.	-	.	gloT
+s_loc_lh1_assembly	AUGUSTUS	transcript	112873	112951	.	-	.	transcript_id "gloT.t1"; gene_id "gloT"
+s_loc_lh1_assembly	AUGUSTUS	stop_codon	112873	112875	.	-	0	transcript_id "gloT.t1"; gene_id "gloT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	112873	112951	1	-	0	transcript_id "gloT.t1"; gene_id "gloT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	123705	123762	1	-	0	transcript_id "gloT.t1"; gene_id "gloT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	135934	135964	1	-	0	transcript_id "gloT.t1"; gene_id "gloT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	136141	136241	1	-	1	transcript_id "gloT.t1"; gene_id "gloT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	136342	136404	1	-	0	transcript_id "gloT.t1"; gene_id "gloT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	136992	137059	1	-	1	transcript_id "gloT.t1"; gene_id "gloT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	137499	137687	1	-	0	transcript_id "gloT.t1"; gene_id "gloT";
+s_loc_lh1_assembly	AUGUSTUS	start_codon	137685	137687	.	-	0	transcript_id "gloT.t1"; gene_id "gloT";
+# overlap start --------------------------------------------------------------------------------
+# this overlap has 1 different transcripts
+# This transcript pveT_jg22140.t1 is derived from g24313.t1 from the input file /home/ubuntu/giacomo-3/pve-final/haploT/braker_results/braker_ETP_T_masked/augustus.E.gtf
+# It is supported by 0 other predicted genes
+# the core of this joined transcript has priority 2		
+s_loc_lh1_assembly	AUGUSTUS	gene	241497	309600	.	-	.	cypT
+s_loc_lh1_assembly	AUGUSTUS	transcript	241497	309600	.	-	.	transcript_id "cypT.t1"; gene_id "cypT"
+s_loc_lh1_assembly	AUGUSTUS	stop_codon	241497	241499	.	-	0	transcript_id "cypT.t1"; gene_id "cypT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	241497	241923	1	-	0	transcript_id "cypT.t1"; gene_id "cypT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	252392	252798	1	-	1	transcript_id "cypT.t1"; gene_id "cypT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	282769	283011	1	-	0	transcript_id "cypT.t1"; gene_id "cypT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	289216	289444	1	-	2	transcript_id "cypT.t1"; gene_id "cypT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	309314	309600	1	-	0	transcript_id "cypT.t1"; gene_id "cypT";
+s_loc_lh1_assembly	AUGUSTUS	start_codon	309598	309600	.	-	0	transcript_id "cypT.t1"; gene_id "cypT";
+# overlap start --------------------------------------------------------------------------------
+# this overlap has 1 different transcripts
+# This transcript pveT_jg22140.t1 is derived from g24313.t1 from the input file /home/ubuntu/giacomo-3/pve-final/haploT/braker_results/braker_ETP_T_masked/augustus.E.gtf
+# It is supported by 0 other predicted genes
+# the core of this joined transcript has priority 2		
+s_loc_lh1_assembly	AUGUSTUS	gene	327037	331312	.	-	.	pumT
+s_loc_lh1_assembly	AUGUSTUS	transcript	327037	331312	.	-	.	transcript_id "pumT.t1"; gene_id "pumT"
+s_loc_lh1_assembly	AUGUSTUS	stop_codon	327037	327039	.	-	0	transcript_id "pumT.t1"; gene_id "pumT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	327037	327142	1	-	0	transcript_id "pumT.t1"; gene_id "pumT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	327818	328074	1	-	1	transcript_id "pumT.t1"; gene_id "pumT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	328485	328628	1	-	0	transcript_id "pumT.t1"; gene_id "pumT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	329525	329688	1	-	1	transcript_id "pumT.t1"; gene_id "pumT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	329786	331312	0.95	-	0	transcript_id "pumT.t1"; gene_id "pumT";
+s_loc_lh1_assembly	AUGUSTUS	start_codon	331310	331312	.	-	0	transcript_id "pumT.t1"; gene_id "pumT";
+# overlap start --------------------------------------------------------------------------------
+# this overlap has 1 different transcripts
+# This transcript pveT_jg22140.t1 is derived from g24313.t1 from the input file /home/ubuntu/giacomo-3/pve-final/haploT/braker_results/braker_ETP_T_masked/augustus.E.gtf
+# It is supported by 0 other predicted genes
+# the core of this joined transcript has priority 2		
+s_loc_lh1_assembly	AUGUSTUS	gene	344618	345641	.	+	.	kfbT
+s_loc_lh1_assembly	AUGUSTUS	transcript	344618	345641	.	+	.	transcript_id "kfbT.t1"; gene_id "kfbT"
+s_loc_lh1_assembly	AUGUSTUS	start_codon	344618	344620	.	+	0	transcript_id "kfbT.t1"; gene_id "kfbT";
+s_loc_lh1_assembly	AUGUSTUS	CDS	344618	345641	1	+	1	transcript_id "kfbT.t1"; gene_id "kfbT";
+s_loc_lh1_assembly	AUGUSTUS	stop_codon	345639	345641	.	+	0	transcript_id "kfbT.t1"; gene_id "kfbT";
